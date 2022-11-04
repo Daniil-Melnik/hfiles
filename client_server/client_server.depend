@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667380459 source:/home/mukomol/Desktop/C++ programs/cl_s_1/client_server/melok.cpp
+	"melok.h"
+
+1667380472 /home/mukomol/Desktop/C++ programs/cl_s_1/client_server/melok.h
+
+1667380611 source:/home/mukomol/Desktop/C++ programs/cl_s_1/client_server/main.cpp
+	<iostream>
+	"melok.h"
+
